@@ -1,0 +1,14 @@
+C:\Users\jmvan\OneDrive\Desktop\repos\ModOneReviewConsoleApp\bin\Debug\net8.0\ModOneReviewConsoleApp.exe
+C:\Users\jmvan\OneDrive\Desktop\repos\ModOneReviewConsoleApp\bin\Debug\net8.0\ModOneReviewConsoleApp.deps.json
+C:\Users\jmvan\OneDrive\Desktop\repos\ModOneReviewConsoleApp\bin\Debug\net8.0\ModOneReviewConsoleApp.runtimeconfig.json
+C:\Users\jmvan\OneDrive\Desktop\repos\ModOneReviewConsoleApp\bin\Debug\net8.0\ModOneReviewConsoleApp.dll
+C:\Users\jmvan\OneDrive\Desktop\repos\ModOneReviewConsoleApp\bin\Debug\net8.0\ModOneReviewConsoleApp.pdb
+C:\Users\jmvan\OneDrive\Desktop\repos\ModOneReviewConsoleApp\obj\Debug\net8.0\ModOneReviewConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmvan\OneDrive\Desktop\repos\ModOneReviewConsoleApp\obj\Debug\net8.0\ModOneReviewConsoleApp.AssemblyInfoInputs.cache
+C:\Users\jmvan\OneDrive\Desktop\repos\ModOneReviewConsoleApp\obj\Debug\net8.0\ModOneReviewConsoleApp.AssemblyInfo.cs
+C:\Users\jmvan\OneDrive\Desktop\repos\ModOneReviewConsoleApp\obj\Debug\net8.0\ModOneReviewConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\jmvan\OneDrive\Desktop\repos\ModOneReviewConsoleApp\obj\Debug\net8.0\ModOneReviewConsoleApp.dll
+C:\Users\jmvan\OneDrive\Desktop\repos\ModOneReviewConsoleApp\obj\Debug\net8.0\refint\ModOneReviewConsoleApp.dll
+C:\Users\jmvan\OneDrive\Desktop\repos\ModOneReviewConsoleApp\obj\Debug\net8.0\ModOneReviewConsoleApp.pdb
+C:\Users\jmvan\OneDrive\Desktop\repos\ModOneReviewConsoleApp\obj\Debug\net8.0\ModOneReviewConsoleApp.genruntimeconfig.cache
+C:\Users\jmvan\OneDrive\Desktop\repos\ModOneReviewConsoleApp\obj\Debug\net8.0\ref\ModOneReviewConsoleApp.dll
